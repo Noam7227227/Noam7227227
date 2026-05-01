@@ -7,7 +7,7 @@ I focus on building high-impact software solutions, with a particular interest i
 ### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/noam-goldfisher-788349330/) | [Email](mailto:noam.goldf@email.com)
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages:** 
 [![My Languages](https://skillicons.dev/icons?i=java,cpp,py,js)](https://skillicons.dev)
@@ -18,13 +18,13 @@ I focus on building high-impact software solutions, with a particular interest i
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Noam7227227&show_icons=true&theme=radical)
+### GitHub Stats:
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noam7227227&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noam7227227&layout=compact&theme=radical)
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects:
 * **Project Argazim** – Full-stack file management system built with React, Express, and a C++ backend.
 * **Professional Portfolio** – Custom web portfolio developed for photography professionals.
 
