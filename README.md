@@ -52,12 +52,6 @@ I'm passionate about building **high-impact software solutions** at the intersec
 - **Highlights:** Multi-threaded backend, React components, RESTful API
 - [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227)
 
-**📸 Professional Portfolio** – Custom Photography Portfolio Platform
-- **Tech Stack:** React, Node.js, Express, PostgreSQL
-- **Description:** Responsive web platform for photography professionals to showcase their work with stunning gallery features.
-- **Highlights:** Responsive design, image optimization, client management
-- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227)
-
 ---
 
 ### 🎓 Education & Interests
