@@ -1,10 +1,10 @@
 # Hi there, I'm Noam Goldfisher 👋
 
-###  Software Developer | Computer Science Student
+###  Software Developer | Computer Science Student At Bar Ilan University
 
 I'm passionate about building **high-impact software solutions** at the intersection of **Technology, Medicine, and Biology**. I specialize in full-stack development and love working on projects that solve real-world problems.
 
-**Currently Working On:** Developing innovative solutions in healthcare tech and bioinformatics.
+**Currently Working On:** Expanding my skill set inbounds my degree and outside of it while building projects- from theoretical knowledge to practical implementation.
 
 ---
 
@@ -16,13 +16,13 @@ I'm passionate about building **high-impact software solutions** at the intersec
 ### 🛠️ Tech Stack & Tools
 
 **Languages:** 
-[![My Languages](https://skillicons.dev/icons?i=java,cpp,py,js,ts,sql)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=c,cpp,java,py,js)](https://skillicons.dev)
 
 **Frontend & Backend:**
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css)](https://skillicons.dev)
 
 **Tools & Platforms:**
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=github,vscode,docker,linux,bash)](https://skillicons.dev)
 
 ---
 
@@ -50,7 +50,7 @@ I'm passionate about building **high-impact software solutions** at the intersec
 - **Tech Stack:** React, Express.js, C++ Backend, MongoDB
 - **Description:** Enterprise-grade file management system with real-time collaboration, advanced search, and optimized performance.
 - **Highlights:** Multi-threaded backend, React components, RESTful API
-- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227)
+- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/Argazim)
 
 ---
 
@@ -67,10 +67,10 @@ I'm passionate about building **high-impact software solutions** at the intersec
 
 ---
 
-### 🚀 What I'm Up To
-✨ Building next-gen solutions in the computer science space
-📚 Continuously learning new technologies and best practices  
-🤝 Open to collaboration and exciting opportunities
+### 🤓 What I'm Up To
+- ✨ Building next-gen solutions in the computer science space
+- 📚 Continuously learning new technologies and best practices  
+- 🤝 Open to collaboration and exciting opportunities
 
 ---
 
