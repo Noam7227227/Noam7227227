@@ -9,21 +9,34 @@ I'm passionate about building **high-impact software solutions** at the intersec
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noam-goldfisher-788349330/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noam.goldf@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noam-goldfisher)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:noam.goldf@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Noam7227227)
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages:** 
+
 [![My Languages](https://skillicons.dev/icons?i=java,cpp,py,js,ts,sql)](https://skillicons.dev)
 
 **Frontend & Backend:**
+
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql)](https://skillicons.dev)
 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 **Tools & Platforms:**
+
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux)](https://skillicons.dev)
 
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+**AI & Agentic Development:**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-5E35B1?style=flat-square)
+![Multi--Agent Architecture](https://img.shields.io/badge/Multi--Agent_Architecture-3949AB?style=flat-square)
 ---
 
 ### 📊 GitHub Statistics
@@ -34,12 +47,16 @@ I'm passionate about building **high-impact software solutions** at the intersec
 - 📈 View detailed contribution history and activity
 
 **Contribution Streak:**
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam7227227&theme=radical)](https://github.com/Noam7227227)
 
-**GitHub Trophies:**
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Noam7227227&theme=radical&no-frame=true&row=1&column=7)
+**Top Languages:**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvat&layout=compact&theme=tokyonight&hide_border=true)
+
 
 **Activity Graph:**
+
 [![Noam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noam7227227&theme=radical)](https://github.com/Noam7227227)
 
 ---
@@ -50,13 +67,13 @@ I'm passionate about building **high-impact software solutions** at the intersec
 - **Tech Stack:** React, Express.js, C++ Backend, MongoDB
 - **Description:** Enterprise-grade file management system with real-time collaboration, advanced search, and optimized performance.
 - **Highlights:** Multi-threaded backend, React components, RESTful API
-- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227)
+- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/Argazim)
 
 **🚀 Auto Installer for Beginners** – Chatbot-driven application installer built as HackAgent BIU hackton project
 - **Tech Stack:** Python, shell scripting, chatbot integration
 - **Description:** Conversational assistant that helps users choose applications from vague input, recommends dependencies, and installs the selected software automatically.
 - **Highlights:** interactive install flow, dependency suggestion, hands-free local application installation
-- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/auto-installer-for-begginers)
+- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/Auto-Installer-For-Beginners)
 
 ---
 
