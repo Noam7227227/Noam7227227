@@ -50,11 +50,6 @@ I'm passionate about building **high-impact software solutions** at the intersec
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam7227227&theme=radical)](https://github.com/Noam7227227)
 
-**Top Languages:**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvat&layout=compact&theme=tokyonight&hide_border=true)
-
-
 **Activity Graph:**
 
 [![Noam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noam7227227&theme=radical)](https://github.com/Noam7227227)
@@ -74,6 +69,12 @@ I'm passionate about building **high-impact software solutions** at the intersec
 - **Description:** Conversational assistant that helps users choose applications from vague input, recommends dependencies, and installs the selected software automatically.
 - **Highlights:** interactive install flow, dependency suggestion, hands-free local application installation
 - [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/Auto-Installer-For-Beginners)
+
+**🎭 Begging Rights** - Interactive AI-powered lock challenge blending web, backend, and hardware
+- **Tech Stack:** React, Node.js, Express, Arduino, JavaScript.
+- **Description:** A playful hackathon project where users plead to an AI judge to unlock a door, combining speech, web interaction, and physical hardware.
+- **Highlights:** Vite frontend, Express backend, ESP32 latch control, voice-driven experience
+- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/Begging-Rights)
 
 ---
 
