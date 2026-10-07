@@ -46,13 +46,11 @@ I'm passionate about building **high-impact software solutions** at the intersec
 - 🌟 Check out my repositories and contributions
 - 📈 View detailed contribution history and activity
 
+[![Noam's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=Noam7227227&layout=compact&theme=radical)](https://github.com/Noam7227227)
+
 **Contribution Streak:**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noam7227227&theme=radical)](https://github.com/Noam7227227)
-
-**Activity Graph:**
-
-[![Noam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Noam7227227&theme=radical)](https://github.com/Noam7227227)
 
 ---
 
@@ -75,6 +73,12 @@ I'm passionate about building **high-impact software solutions** at the intersec
 - **Description:** A playful hackathon project where users plead to an AI judge to unlock a door, combining speech, web interaction, and physical hardware.
 - **Highlights:** Vite frontend, Express backend, ESP32 latch control, voice-driven experience
 - [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/Begging-Rights)
+
+**🪝 Claude Code Hook Framework** – Dependency-free Bash framework for monitoring and sandboxing AI coding agents
+- **Tech Stack:** Bash, shell scripting, GitHub Actions
+- **Description:** Lifecycle hooks for intercepting and monitoring agent actions, with guardrails for sensitive files and dangerous commands.
+- **Highlights:** Pre-tool blocking, automatic backups, syntax checks, session summaries, and a standalone hook runner
+- [![GitHub](https://img.shields.io/badge/View%20Project-181717?style=flat&logo=github)](https://github.com/Noam7227227/Claude-code-hook-framework)
 
 ---
 
